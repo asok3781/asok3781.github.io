@@ -3,10 +3,27 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+## Software specific projects
+### Multitasking and cognitive function (Honours Project)
+Through comparing data from personal computers and phones, I was able to create metrics to further the understanding of what exactly multi-media multitasking is, how to measure it, and how to determine who exactly is a "Heavy Multitasker". This enabled further cognitive research on heavy and light multitaskers in order to understand the potential effects of how we currently consume media through our devices.
+### Collaborative Spotify Playlist Maker
+Created a fully featured voting and selection system for Spotify songs, creating a Single Page Application with the MERN stack and Spotify APIs, building accompanying testing suites through JEST.
+<div style="text-align: center; padding-bottom: 20px">
+  <img src="/assets/spotify-maker.png" alt="Profile Picture" width="640" height="360" style="border-radius: 1%;"> 
+</div>
+
+<h3><a href="https://github.com/SE701Team2/Updog">Twitter-like Social Media Application</a></h3>
+Created single page application in team using an Agile Methodology, implementing timeline posts and direct messaging. The application was created using a MVVM Architecture and React, with an accompanying test suite using Jest and React Testing Library. A REST API  was created using Node, MySQL, Express and login was implemented with Firebase.
+
+<h3><a href="https://github.com/seanhogunkim/Peercrastinate">Group Procrastination Application</a></h3>
+Created an Android application in team as part of a Hackathon that ”Promotes procrastination among friends”. Kotlin and Android studio was used to create a basic application that tracks phone usage (from Android’s built-in
+APIs) to display to user, and MongoDB was used to create a basic database to store information across multiple devices.
+
+## Other Personal Projects
 <div style="text-justify: auto; text-align: justify;">
-  <h1>
+  <h3>
     <a href="https://www.youtube.com/channel/UCapkDcgqY7QIblepOf2B-dQ">Reviewing peripherals on Youtube</a>
-  </h1>
+  </h3>
   <p>
     Lately I have been reviewing various PC gaming peripherals (Mainly mice and mousepad related items). Here's
     my most viewed video to date which has 2.5K views at the time of writing below.
@@ -20,7 +37,7 @@ permalink: /projects/
   </div>
 </div>
 <div style="padding-top:30px; text-justify: auto; text-align: justify;">
-  <h1>Keyboard design and small scale manufacturing</h1>
+  <h3>Keyboard design and small scale manufacturing</h3>
   <p>
     I have designed and created custom stacked acrylic keyboards using Fusion360 and KiCad, designing both
     the
